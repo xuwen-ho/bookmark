@@ -1,0 +1,4 @@
+export const PARAGRAPH_GAP_MULTIPLIER = 1.5;
+export const HEADER_FOOTER_MARGIN = 0.05;
+export const TWO_COLUMN_SPLIT_RATIO = 0.35;
+export const INDENT_THRESHOLD_PX = 20;
